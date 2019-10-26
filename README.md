@@ -9,3 +9,6 @@ Greetings wild ones! My name is Jennifer Sciullo. I go by the pronouns she/her/h
 
 # What I hope to learn
 I'm excited to learn more about the methods/vocabulary used to critique data. I am also thrilled to learn new techniques that will help bring life to the data in my world. Upon graduation I hope to advance my career in higher education administration.
+
+# Portfolio
+Future awesome portfolio goes here!
