@@ -2,6 +2,9 @@
 Telling Stories with Data
 
 # About me
+
+![Profile Image](profile_image.jpg)
+
 Greetings wild ones! My name is Jennifer Sciullo. I go by the pronouns she/her/hers. I'm an MPM student at the Heinz College. A native of Pittsburgh, I enjoy exploring the rivers, hills, and valleys that I call home. 
 
 # What I hope to learn
