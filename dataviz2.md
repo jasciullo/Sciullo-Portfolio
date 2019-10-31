@@ -7,4 +7,4 @@
 <iframe src="https://data.oecd.org/chart/5JjJ" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/5JjJ" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2015</a></iframe>
 
 
-General government debt (total % of GDP, 2015) for the G7 countries and the Nordic countries of Denmark, Finland, Sweden, and Norway.  
+General government debt (Total, % of GDP, 2015) for the G7 countries and the Nordic countries of Denmark, Finland, Sweden, and Norway.  
