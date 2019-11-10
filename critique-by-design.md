@@ -18,7 +18,9 @@ The CEA is utlizing data from multiple sources (including the EPA) to argue a la
 
 ### Process and wireframing
 
-The redesign process began with critiquing the original visualization using Stephen Few's [Data Visualization Effectiveness Profile](http://www.perceptualedge.com/articles/visual_business_intelligence/data_visualization_effectiveness_profile.pdf) to determine what was effective and what could be improved. I ranked the orignial visualization at the low end of the scale for usefulness and perceptability. This was because the original graph did not show what the CEA was saying it did - a correlation between natural gas production and lowered emissions of various pollutants. I started with wireframing to improve some of the visual features of the graphs to enhance legibility and clarity. Then I planned an alternative approach to presenting the data to more effectively convey their message. Note that doing so does not improve the truthfulness of the narrative, but shows how improperly contextualized data can suggest certain take-aways.
+The redesign process began with critiquing the original visualization using Stephen Few's [Data Visualization Effectiveness Profile](http://www.perceptualedge.com/articles/visual_business_intelligence/data_visualization_effectiveness_profile.pdf) to determine what was effective and what could be improved. I ranked the orignial visualization at the low end of the scale for usefulness and perceptability. This was because the original graph did not show what the CEA was saying it did - a correlation between natural gas production and lowered emissions of various pollutants. 
+
+I started with wireframing to improve some of the visual features of the graphs to enhance legibility and clarity. Then I planned an alternative approach to presenting the data to more effectively convey the intended message. Note that doing so does not improve the truthfulness of the narrative, but shows how improperly contextualized data can suggest certain take-aways.
 
 The first main point to address was the time axis of the plot, as well as the use of proportions instead of percentage.
 
@@ -28,7 +30,7 @@ This timeline will allow for a shared axis of gas production with the emissions 
 
 ![Shared plot for emissions and gas production](shared_plot_for_emissions_and_gas_production.png)
 
-To further stress the point that (though this is a horribly myopic perspective) that emissions and gas production are trending in opposite directions, we will plot the emissions **per** gas production.
+To further stress the point that (though this is a horribly myopic perspective) that emissions and gas production are trending in opposite directions, the redesign will plot the emissions **per** gas production.
 
 ![Normalized ratio of emissions to gas production](normalized_ratio_of_emissions_to_gas_production.png)
 
