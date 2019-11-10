@@ -2,11 +2,15 @@
 
 ## The original visualizations
 
-Lorem Ipsum
+The original visualization I chose appeared in the [Desmog Blog](https://www.desmogblog.com/2019/10/31/consumer-energy-alliance-pennsylvania-air-quality-natural-gas) on October 31, 2019. This blog references a twitter post by Range Resources, which references [this post](https://consumerenergyalliance.org/2019/10/pennsylvanias-emissions-fell-92-energy-production-soared-3000/) by Consumer Energy Alliance (CEA), further referencing a [PDF report by CEA](https://consumerenergyalliance.org/cms/wp-content/uploads/2019/10/CEA_INFOGRAPHIC_PENNSYLVANIA.pdf). Shown here is the original tweet by Range Resources and another plot from the PDF.
+
+![Range Resources Tweet Plot](range_resources_tweet_plot.png)
+
+![CEA Plot of PA Natural Gas Production](cea_pdf_natural_gas_production.png)
 
 ### Why I selected this
 
-Dolor sit amet.
+I selected this visualization because there was quite a bit to work with! The data that the Consumer Energy Alliance is presenting came out after [The New York Times](https://www.nytimes.com/interactive/2019/10/24/climate/air-pollution-increase.html) published an article about the national rise in air pollution since 2016. This article references EPA data examined by researchers at Carnegie Mellon University.
 
 ## Re-Designed visualizations
 
