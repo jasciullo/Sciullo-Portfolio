@@ -12,3 +12,5 @@ I'm excited to learn more about the methods and vocabulary used to critique data
 
 # Portfolio
 Check out some of my [data visualization exercises](/dataviz2.md) here!
+
+Check out my [Critique by Redesign](/critique-by-design.md) here!
