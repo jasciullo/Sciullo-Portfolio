@@ -36,10 +36,36 @@ The opposite trends should compound to a starker trend.
 
 ### Feedback on wireframes
 
+When I shared my wireframe sketches with individuals (outside of Telling Stories with Data classmates) responses included:
 
+"As time goes on, the emissions have gone down a lot."
+"Where is the data for gas production?"
+"What is this supposed to show again?"
+"Do you produce less emissions with more gas?"
+"Is this trying to show that gas production has become more efficient over the years?"
+"I would probably want to see the gas production on this graph."
+"The intended audience isn't environmentally conscious."
+
+
+This feedback helped inform the data visualization redesign process. Notably, it would help to reduce confusion to show a raw display of gas production.
+
+### Data extraction and processing
 
 The next task at hand was to extract the raw data referenced in the CEA PDF.
 
+Though sources were cited in the PDF report, it was not immediately clear in all instances which source was precisely being used for their graph. The EPA data for the emissions was the easiest to locate: this had the timecourses for the emissions (except CO2) across different production sectors. The PDF did not make it clear how they processed this across sectors so their analysis was not fully documented in this regard. For my analysis, I totaled all sectors for each emission group per year. I then normalized each timecourse to the value for 1990.
+
+For the CO2 data, it was not fully clear which data they had pulled from. I found an [EIA report](https://www.eia.gov/environment/emissions/state/) that provides state-wise data on CO2 that seemed a likely source (though it did include data for 2017, contrary to the CEA report's indication). This was also normalized to its 1990 value.
+
+For the gas production data, it did not appear to be directly linked or cited from the PDF, but I did find it subsequently cited by one of the citations: https://www.eia.gov/state/analysis.php?sid=PA. This did not have a direct link to the source, but it provided enough information to Google: https://www.eia.gov/dnav/ng/ng_prod_sum_a_EPG0_VGM_mmcf_a.htm. This data was also normalized for display.
+
+To provide the needed data for the Emissions per Gas Production graph, a calculation was made for each emission type (in a year) divided by the gas production (in that same year). Then all of these were normalized to their maximum value so that they could be displayed on the same axis. The gas production timecourse was also normalized to its maximum value for display alongside.
+
+
 ### Approach with Infogram
 
+I used Infogram to produce the following data redesign.
+
 <div class="infogram-embed" data-id="3b705b9c-fce7-4d8c-8c1e-6b87ccf99ce0" data-type="interactive" data-title="Blank template"></div><script>!function(e,i,n,s){var t="InfogramEmbeds",d=e.getElementsByTagName("script")[0];if(window[t]&&window[t].initialized)window[t].process&&window[t].process();else if(!e.getElementById(n)){var o=e.createElement("script");o.async=1,o.id=n,o.src="https://e.infogram.com/js/dist/embed-loader-min.js",d.parentNode.insertBefore(o,d)}}(document,0,"infogram-async");</script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/3b705b9c-fce7-4d8c-8c1e-6b87ccf99ce0" style="color:#989898!important;text-decoration:none!important;" target="_blank">Blank template</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
+
+One limitation of Infogram is that I could not provide a second y-axis on the right side as I had desired.
