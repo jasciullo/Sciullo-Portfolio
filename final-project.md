@@ -18,6 +18,13 @@ Why examine measles specifically? [4](#4)? High virulence makes it a good indica
 
 ## Project Structure
 
+In the beginning there were vaccinations and they were good. A great many of the most common, horrific diseases were able to be easily prevented and erradicated. People welcomed the relief from the suffering these diseases caused. The need for preventative vaccincation continues while the memory of the suffering has faded. 
+
+The narrative which argues that vaccination is either harmful or merely upheld for purposes of profit has grown and there are fewer people taking preventative measures. Where this happens, we see the reoccurrence of diseases and larger numbers. We have good tools for modeling and understanding the factors of how these diseases spread and behave as epidemics. 
+
+The World Health Organization lists vaccine hesitancy as one of the top ten threats to public health. The negative effects of this threat aren't just happening in developming nations - but it in our region, our communities, and our schools. The projects endeavors to illustrate the effectiveness of vaccination, it's history and onoing importance, and how the rise of the anti-vaccination narrative is linked to new epidemics.
+
+
 ### Present the timeline of reported cases of measles, as well as demographic patterns of distribution
 
 Current data on measles – US/PA. Who is affected? [5](#5)
