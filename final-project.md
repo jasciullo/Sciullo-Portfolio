@@ -46,6 +46,11 @@ Source:Health, United States, 2018, table 31 pdf icon[PDF-9.8 MB] [8](#8) and ta
 
 **Vaccine Exemptions** [16](#16)
 
+### Vaccine hesitancy and herd immunity
+
+**Effect on herd immunity** [12](#12), [13](#13)
+
+**Vaccine hesitancy** [17](#17),[18](#18)
 
 **Vaccine Adverse Event Reporting System**
 
@@ -67,23 +72,29 @@ This page shows possible outbreaks following the introduction of a single measle
 US cities. The model shows the importance of a high vaccination rate in providing protection for
 the entire community.
 
-**Effect on herd immunity** [12](#12), [13](#13)
-
-**Vaccine hesitancy** [17](#17),[18](#18)
-
 ## Key dates & Final Deadline
 
-## Challenges - 
+Final presentation: 2019-12-04
 
-Wall Street Journal article
+## Challenges
 
-## Measuring Success -
+* Identifying target audience and framing story arc accordingly
+* Blending disparate sources of data.
+* Finding a creative way to bring value to an ongoing conversation about the subject of the rise of vaccine hesitancy and the resurgence of highly communicable and deadly diseases. In large part due to the great effectiveness of past vaccination campaigns, in this country we have lately had very little conversation about the importance of vaccination and the suffering it ended. A narrative of vaccine hesitancy has arisen and occupies an out-sized portion of the framing discussion regarding vaccines. The modern ubiquity of data and accessibility to it has been a boon to research, but it is also being mis-used and mis-represented to support the anti-vaccination narrative. 
 
-## Sketch your section:
+## Measuring Success
+
+Possibly including short survey after project review to address understanding of vaccination, its history, and its benefits.
+
+## Sketch your section
 
 ## Key points for section
 
+Identified under Project Structure.
+
 ## Potential images or video for section
+
+Currently researching.
 
 ### Sources
 
