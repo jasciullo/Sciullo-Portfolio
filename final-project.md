@@ -10,19 +10,17 @@ Pitt Public Health colleagues, Allegheny County Health Department employees, Tel
 
 ## Project Summary
 
-Examination of the increase in reported cases of measles in US and how vaccine hesitancy has played a role.
-Timely topic because The number of reported cases of meases spiked in 2019 – with a record number of cases
-reported (ex. X). PA [1](#1) (and specifically Allegheny County) [2](#2) –  reported cases. And vaccine hesitancy public
-health issue. Since vaccination exemption is set by each state [3](#3) – it’s important to know how this affects
-our public health in region.
+I intend to examine the increase in reported cases of measles in the US and how vaccine hesitancy has played a role.
+This project is timely since the number of reported cases of measles in the US spiked in 2019 – with a record number of cases
+reported in PA [1](#1) (including cases in Allegheny County, PA) [2](#2) Since vaccination exemption is set by each state [3](#3) – it’s crucial to understand how state government exemptions for vaccines affect the public health of citizens in our region.
 
-Why measles [4](#4)? Very contagious – shows overall vaccination rates for region.
+Why examine measles specifically? [4](#4)? High virulence makes it a good indicator for overall vaccination rates.
 
 ## Project Structure
 
-Current data on measles – US/PA
+### Present the timeline of reported cases of measles, as well as demographic patterns of distribution
 
-Who is affected? [5](#5)
+Current data on measles – US/PA. Who is affected? [5](#5)
 
 CDC Measles Cases and Outbreaks – 2019 US [6](#6)
 
@@ -36,7 +34,7 @@ Reported number of new German measles (rubella) cases: 7 (2017)
 
 Source: Health, United States, 2018, table 10 pdf icon[PDF – 9.8 MB] [7](#7)
 
-**Vaccination:**
+### Present statistics on vaccination, and vaccination policy
 
 Percent of children aged 19-35 months vaccinated against measles, mumps, rubella: 91.5% (2017)
 
@@ -44,17 +42,20 @@ Percent of adolescents aged 13-17 years vaccinated against measles, mumps, rubel
 
 Source:Health, United States, 2018, table 31 pdf icon[PDF-9.8 MB] [8](#8) and table 32 pdf icon[PDF – 9.8 MB] [9](#9)
 
+**Recommended Vaccine Schedule** [11](#11)
+
+**Vaccine Exemptions** [16](#16)
+
+
 **Vaccine Adverse Event Reporting System**
 
 Data sets from 1990 – 2019
 
 Domestic and Non-domestic [10](#10)
 
-**Recommended Vaccine Schedule** [11](#11)
+### Show current tools for modelling epidemics and demonstrate the importance of vaccination
 
-**Effect on herd immunity** [12](#12), [13](#13)
-
-**Projection – Project Tycho**
+**Projection – Project Tycho** [14](#14)
 
 **FRED** [15](#15)
 
@@ -66,7 +67,7 @@ This page shows possible outbreaks following the introduction of a single measle
 US cities. The model shows the importance of a high vaccination rate in providing protection for
 the entire community.
 
-**Vaccine Exemptions** [16](#16)
+**Effect on herd immunity** [12](#12), [13](#13)
 
 **Vaccine hesitancy** [17](#17),[18](#18)
 
