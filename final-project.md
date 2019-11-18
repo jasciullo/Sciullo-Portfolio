@@ -85,7 +85,7 @@ Final presentation: 2019-12-04
 
 ## Challenges
 
-* Identifying target audience and framing story arc accordingly
+* Identifying target audience and framing story arc accordingly.
 * Blending disparate sources of data.
 * Finding a creative way to bring value to an ongoing conversation about the subject of the rise of vaccine hesitancy and the resurgence of highly communicable and deadly diseases. In large part due to the great effectiveness of past vaccination campaigns, in this country we have lately had very little conversation about the importance of vaccination and the suffering it ended. A narrative of vaccine hesitancy has arisen and occupies an out-sized portion of the framing discussion regarding vaccines. The modern ubiquity of data and accessibility to it has been a boon to research, but it is also being mis-used and mis-represented to support the anti-vaccination narrative. 
 
@@ -177,12 +177,3 @@ https://www.nytimes.com/2019/09/23/health/anti-vaccination-movement-us.html
 
 https://www.sciencemag.org/news/2017/04/four-vaccine-myths-and-where-they-came
 
-*additional sources*
-
-https://www.historyofvaccines.org/timeline/all
-
-https://www.publicsource.org/back-to-school-preparations-often-exclude-vaccines-in-pa/ 
-
-https://www.vox.com/2015/1/5/7482871/types-of-study-design 
-
-https://www.vox.com/science-and-health/2019/2/16/18223764/measles-outbreak-2019-vaccines-anti-vax 
