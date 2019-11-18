@@ -95,6 +95,10 @@ Possibly including short survey after project review to address understanding of
 
 ## Sketch your section
 
+![image1](20191117_233019.jpg)
+
+![image2](20191117_233045.jpg)
+
 ## Key points for section
 
 Identified under Project Structure.
