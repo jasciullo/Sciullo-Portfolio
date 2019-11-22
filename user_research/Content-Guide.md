@@ -5,7 +5,7 @@ Examples of more fully-formed content guides:
 
 # Introduction
 
-Welcome to the NASA SBIR/STTR content guide! This short, informal guide offers strategies for writing content that will appeal to NASA’s diverse group of users. 
+Welcome to the xxx content guide! This short, informal guide offers strategies for writing content that will appeal to NASA’s diverse group of users. 
 
 The intent of this guide is to provide unbiased recommendations on plain language / industry-standard language to attract and retain high level participants for the SBIR / STTR program, and provide guidelines for writing more inclusive content. 
 
