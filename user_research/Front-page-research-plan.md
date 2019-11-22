@@ -1,25 +1,21 @@
-# Front page research plan
+# Data visualization research plan
 
 ## Goals / Questions
 Goals | Questions
 :----- | :---------
 Evaluate the data visualizations | Are the visualizations clear to people who are not directly working in the public health field?
  | What is confusing, if anything?
-Prioritize what to fix  What are the major issues with this data visualization?
+Prioritize what to fix | What are the major issues with this data visualization?
 
 ## Background
 
-NASA SBIR/STTR spoke its customers about their experience interacting with their program and created a service blueprint. One of the outcomes of this research was that efforts to streamline and template the initial application process and clarify NASA SBIR/STTR statistics and program goals would likely be very effective in increasing participation, especially from non-traditional groups. NASA SBIR/STTR should also leverage the NASA brand as a selling point.
+Although the infectious disease of measles was declared erradicated from the US in xxxx -2019 saw a surge in confirmed cases of measles in several states. As of October 2019 the number of reported cases slowed down and we were able to keep our erracted status. Worldwide - the WHO lists vaccine hestiancy as one of the top ten global threats. Since global travel of US citizens (in/out of the country) continues and as do individuals/commounities who may be vaccine hesitant - there is a threat to the public health of people residing in the US.
 
-This is the first test of a homepage mockup with NASA SBIR/STTR program information written in plain language.
-
-### Metrics
-
-* Whether participants understand what the site is about
-* Whether participants seem engaged/excited to learn more and click into content
+* Whether participants understand what the data visualizations are about
+* Whether participants seem engaged/excited to learn more
 
 ## Methods
-* 10-15 min interviews people who are unfamiliar with NASA SBIR/STTR
+* 10-15 min interviews people who are not working directly in the public health field.
 * Notes
 * Remote or in-person
 
