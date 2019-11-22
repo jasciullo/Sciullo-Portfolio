@@ -1,4 +1,8 @@
-# Measles resurgence and vaccine hesitancy user research plan
+# TSWD Final Project user research plan
+
+## Research Topic
+
+Measles Resurgence and Vaccine Hesitancy in the US
 
 ## Background
 
