@@ -8,6 +8,8 @@ Measles Resurgence and Vaccine Hesitancy in the US
 
 Although the infectious disease of measles was declared erradicated from the US in xxxx -2019 saw a surge in confirmed cases of measles in several states. As of October 2019 the number of reported cases slowed down and we were able to keep our erracted status. Worldwide - the WHO lists vaccine hestiancy as one of the top ten global threats. Since global travel of US citizens (in/out of the country) continues and as do individuals/commounities who may be vaccine hesitant - there is a threat to the public health of people residing in the US.
 
+## Target audience
+
 ## Objectives
 
 Conducting user research for Part II of Telling Stories with Data Final Project. Objective is to gather information to improve clarity of data visualizations presented.
@@ -56,3 +58,9 @@ Script is [here](https://github.com/18F/NASA-SBIR-STTR/wiki/Front-page-testing-s
 ## Test asset(s)
 
 [Here's the printout](https://cloud.githubusercontent.com/assets/4827522/23862817/3c800ece-07cb-11e7-8206-f827ee7832e2.png) we used to test.
+
+## Interview findings
+
+## Changes implemented
+
+
