@@ -3,9 +3,9 @@
 ## Goals / Questions
 Goals | Questions
 :----- | :---------
-Evaluate front page | Do people unfamiliar with the program understand what the site is about?
+Evaluate the data visualizations | Are the visualizations clear to people who are not directly working in the public health field?
  | What is confusing, if anything?
-Prioritize what to fix | What problems are most severe?
+Prioritize what to fix  What are the major issues with this data visualization?
 
 ## Background
 
