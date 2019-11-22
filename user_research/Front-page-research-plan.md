@@ -1,4 +1,11 @@
-# Data visualization research plan
+# Data visualization user research plan
+
+## Objectives
+
+Conducting user research for Part II of Telling Stories with Data Final Project. Objective is to gather information to improve clarity of data visualizations presented.
+
+* Whether participants understand what the data visualizations are about
+* Whether participants seem engaged/excited to learn more
 
 ## Goals / Questions
 Goals | Questions
@@ -11,14 +18,10 @@ Prioritize what to fix | What are the major issues with this data visualization?
 
 Although the infectious disease of measles was declared erradicated from the US in xxxx -2019 saw a surge in confirmed cases of measles in several states. As of October 2019 the number of reported cases slowed down and we were able to keep our erracted status. Worldwide - the WHO lists vaccine hestiancy as one of the top ten global threats. Since global travel of US citizens (in/out of the country) continues and as do individuals/commounities who may be vaccine hesitant - there is a threat to the public health of people residing in the US.
 
-Conducting user research for Part II of Telling Stories with Data Final Project. Objective is to gather information to improve clarity of data visualizations presented.
-
-* Whether participants understand what the data visualizations are about
-* Whether participants seem engaged/excited to learn more
-
 ## Schedule
 
 Week of 11/18/19
+
 1:1s with three user research participants
 
 ## Facilitator
@@ -33,11 +36,9 @@ Jennifer Sciullo
 
 ## Participants
 
-Are not directly working in the public health field.
-
-Have some knowledge about vaccines as US citizens who have attended higher education institutions.
-
-Are residents in the state of Pennsylvania.
+* Are not directly working in the public health field.
+* Have some knowledge about vaccines as US citizens who have attended higher education institutions.
+* Are residents in the state of Pennsylvania.
 
 ## Script
 
