@@ -16,19 +16,23 @@ Conducting user research for Part II of Telling Stories with Data Final Project.
 * Whether participants understand what the data visualizations are about
 * Whether participants seem engaged/excited to learn more
 
-##Schedule
+## Schedule
+
 Week of 11/18/19
 1:1s with three user research participants
 
-##Facilitator
+## Facilitator
+
 Jennifer Sciullo
 
 ## Methods
+
 * 10-15 min interviews people who are not working directly in the public health field.
 * Notes
 * Remote or in-person
 
-##Participants
+## Participants
+
 Are not directly working in the public health field.
 
 Have some knowledge about vaccines as US citizens who have attended higher education institutions.
