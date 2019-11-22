@@ -18,4 +18,4 @@ Check out my [Critique by Redesign](/critique-by-design.md) here!
 [Final project](/final-project.md) in process!
 
 # User Research
- Link to user research home (/user_research/Home.md)
+ [Link to user research home](/user_research/Home.md)
