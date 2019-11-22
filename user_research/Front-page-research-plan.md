@@ -41,7 +41,13 @@ Jennifer Sciullo
 ## Methods
 
 * 10-15 minute brief in-person interviews with people not working directly in the public health field.
-* Notes.
+* Notes from participants.
+* Additional notes taken by facilitator.
+
+## Supplies
+
+* Laptop computer showing data visualizations
+* Paper and pens
 
 ## Script
 
