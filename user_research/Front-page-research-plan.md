@@ -1,4 +1,4 @@
-# Measles resurrgence and vaccine hesitancy user research plan
+# Measles resurgence and vaccine hesitancy user research plan
 
 ## Background
 
@@ -8,8 +8,8 @@ Although the infectious disease of measles was declared erradicated from the US 
 
 Conducting user research for Part II of Telling Stories with Data Final Project. Objective is to gather information to improve clarity of data visualizations presented.
 
-* Whether participants understand what the data visualizations are about
-* Whether participants seem engaged/excited to learn more
+* Whether participants understand the data visualizations presented.
+* Whether participants seem engaged/excited to learn more about the topic.
 
 ## Goals / Questions
 Goals | Questions
@@ -20,9 +20,9 @@ Prioritize what to fix | What are the major issues with this data visualization?
 
 ## Schedule
 
-Week of 11/18/19
+Week of 11/18/19:
 
-* 1:1s with three user research participants
+* 1:1 brief interviews with three user research participants.
 
 ## Facilitator
 
@@ -36,9 +36,8 @@ Jennifer Sciullo
 
 ## Methods
 
-* 10-15 min interviews people who are not working directly in the public health field.
-* Notes
-* Remote or in-person
+* 10-15 minute brief in-person interviews with people not working directly in the public health field.
+* Notes.
 
 ## Script
 
