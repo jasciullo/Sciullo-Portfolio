@@ -1,4 +1,4 @@
-# TSWD Final Project user research plan
+# TSWD Final Project Part II
 
 ## Research Topic
 
@@ -17,7 +17,11 @@ Although the infectious disease of measles was declared eliminated from the US i
 
 Storyboard designed via Balsamiq.
 
-## Objectives
+## User Research
+
+I conducted user research to gain insights into my proposed data visualizations for Part II of my final project.
+
+## Objective
 
 Conducting user research for Part II of Telling Stories with Data Final Project. Objective is to gather information to improve clarity of data visualizations presented.
 
