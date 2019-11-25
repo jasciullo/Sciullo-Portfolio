@@ -53,7 +53,7 @@ Jennifer Sciullo
 
 ## Script
 
-Script is [here](https://github.com/18F/NASA-SBIR-STTR/wiki/Front-page-testing-script).
+Script is [here](TSWD_user_research_script.md)
 
 ## Test asset(s)
 
@@ -61,7 +61,7 @@ Script is [here](https://github.com/18F/NASA-SBIR-STTR/wiki/Front-page-testing-s
 
 ## Interview findings
 
-[User Research Feedback](../user_research_feedback.md)
+[User Research Feedback](user_research_feedback.md)
 
 ## Changes implemented
 
