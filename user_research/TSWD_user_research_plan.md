@@ -19,6 +19,6 @@ Storyboard designed via Balsamiq.
 
 ## User research
 
-I conducted user research to gain insights into my proposed data visualizations for Part II of my final project.
+I conducted [user research](interviews/TSWD_user_research_interviews.md) to gain insights into my proposed data visualizations for Part II of my final project.
 
 ## Changes implemented
