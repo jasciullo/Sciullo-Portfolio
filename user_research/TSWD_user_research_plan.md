@@ -29,4 +29,4 @@ I conducted [user research](interviews/TSWD_user_research_interviews.md) to gain
 
 Moodboard designed via Canva.
 
-![moodboard](public_health_moodboard_by_Jennifer_Sciullo.png)
+![moodboard](public_health_mood_board_by_Jennifer_Sciullo.png)
