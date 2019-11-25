@@ -17,6 +17,8 @@ Although the infectious disease of measles was declared eliminated from the US i
 
 Storyboard designed via Balsamiq.
 
+![vaccine hesitancy balsamiq mockup](measles_vaccine_hesitancy.png)
+
 ## User research
 
 I conducted [user research](interviews/TSWD_user_research_interviews.md) to gain insights into my proposed data visualizations for Part II of my final project.
