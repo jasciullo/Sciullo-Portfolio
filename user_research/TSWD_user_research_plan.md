@@ -31,7 +31,7 @@ Prioritize what to fix | What are the major issues with this data visualization?
 
 Week of 11/18/19:
 
-* 1:1 brief interviews with three user research participants.
+* 1:1 brief remote interviews with three user research participants.
 
 ## Facilitator
 
@@ -47,11 +47,11 @@ Jennifer Sciullo
 
 * 10-15 minute brief remote interviews with people not working directly in the public health field.
 * Notes from participants.
-* Additional notes taken by facilitator.
 
 ## Supplies
 
-* User research computers to view data visualizations.
+ * User research computers to view data visualizations.
+ * Facilitator computer to share interview questions and data visualizations.
 
 ## Script
 
