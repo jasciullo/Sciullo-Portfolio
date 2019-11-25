@@ -1,4 +1,4 @@
-# TSWD Final Project Part II
+# Final Project Part II
 
 ## Research topic
 
@@ -52,3 +52,9 @@ As for Visualization 3. I also implemented the feedback that called for the reco
 ### Visualization 4, Slide 4
 
 The interactive plot of the data here contains more information than the flat image. I provided better context in labelling, and also prompting to explore the interactivity.
+
+## Optional moodboard
+
+Moodboard designed via Canva.
+
+![moodboard](public_health_mood_board_by_Jennifer_Sciullo.png)
