@@ -1,4 +1,4 @@
-# USER RESEARCH FEEDBACK
+# User Research Feedback
 
 ## Data Visualization #1 
 
@@ -73,6 +73,7 @@ User A:
     • Where in PA were the cases of measles reported in 2019? Were they in the Lehigh Valley area? 
     • What do rates in the rest of the state look like?
     • Why are some schools in this area showing low rates? What are the primary reasons for children not receiving the MMR vaccination? Is there some connection between this reasoning and this particular area? (ie. vaccination requirements, availability of vaccine, socioeconomic status, religious beliefs)
+
 User B:
 
 This visualization seems to be aimed at parents, showing them the MMR vaccination ranges of schools in the Lehigh area. This visualization would be much more useful if hovering over a marker would give you the name of a school. Just as I typed that I noticed the link to the interactive map. Now I find this visualization very useful, especially since you can scroll through a list where schools are clearly grouped in relation to their vaccination rate. If I wanted to make sure to send my child to a school with a high MMR vaccination rate, this would be an incredibly useful resource for me.
