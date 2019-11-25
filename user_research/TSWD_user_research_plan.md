@@ -13,6 +13,10 @@ Although the infectious disease of measles was declared eliminated from the US i
  * Possible fencesitters on the public health topic of immunizations (for themselves/their dependents).
  * Community advocates who can help educate others about the benefits of herd immunity.
 
+## Storyboard
+
+Storyboard designed via Balsamiq.
+
 ## Objectives
 
 Conducting user research for Part II of Telling Stories with Data Final Project. Objective is to gather information to improve clarity of data visualizations presented.
@@ -55,15 +59,15 @@ Jennifer Sciullo
 
 ## Script
 
-Script is [here](TSWD_user_research_script.md)
+Script is [here](TSWD_user_research_script.md).
 
 ## Test asset(s)
 
-Displayed via [Infogram](https://infogram.com/wireframe-measles-1hkv2nn3v9on2x3?live).
+Wireframing displayed via [Infogram](https://infogram.com/wireframe-measles-1hkv2nn3v9on2x3?live).
 
 ## Interview findings
 
-[User Research Feedback](user_research_feedback.md)
+[User Research Feedback](user_research_feedback.md).
 
 ## Changes implemented
 
