@@ -54,4 +54,4 @@ Wireframing displayed via [Infogram](https://infogram.com/wireframe-measles-1hkv
 
 ## Interview findings
 
-[User Research Feedback](user_research_feedback.md).
+User research [feedback](user_research_feedback.md).
