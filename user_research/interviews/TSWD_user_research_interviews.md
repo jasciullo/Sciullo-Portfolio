@@ -1,4 +1,4 @@
-# TSWD Final Project Part II
+# Final Project Part II
 
 ## User Research
 
@@ -12,11 +12,10 @@ Conducting user research for Part II of Telling Stories with Data Final Project.
  * Whether participants seem engaged/excited to learn more about the topic.
 
 ## Goals / Questions
-Goals | Questions
-:----- | :---------
-Evaluate the data visualizations | Are the visualizations clear to people who are not directly working in the public health field?
- | What is confusing, if anything?
-Prioritize what to fix | What are the major issues with this data visualization?
+
+ * Evaluate the data visualizations.
+ * Are the visualizations clear to people who are not directly working in the public health field? What is confusing, if anything?
+ * Prioritize what to fix. What are the major issues with this data visualization?
 
 ## Schedule
 
