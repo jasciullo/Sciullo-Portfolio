@@ -25,6 +25,7 @@ I conducted [user research](interviews/TSWD_user_research_interviews.md) to gain
 
 ## Changes implemented
 
+Revised Infogram [here](https://infogram.com/wireframe-measles-post-feedback-1hke60mo9jm125r).
 ### Visualization 1, slide 1
 
 Based on the feedback on this slide, I did the following:
