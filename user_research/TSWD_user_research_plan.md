@@ -57,7 +57,7 @@ Script is [here](TSWD_user_research_script.md)
 
 ## Test asset(s)
 
-[Here's the printout](https://cloud.githubusercontent.com/assets/4827522/23862817/3c800ece-07cb-11e7-8206-f827ee7832e2.png) we used to test.
+Displayed via [Infogram](https://infogram.com/wireframe-measles-1hkv2nn3v9on2x3?live).
 
 ## Interview findings
 
