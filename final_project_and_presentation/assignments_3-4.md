@@ -34,7 +34,7 @@ Communicating the importance of vaccinations is a challenging endeavor. It’s e
 That said, my research yielded some interesting information about communicating with vaccination fence-sitters. This population was shown to be more likely to be influenced in a positive direction toward vaccine acceptance when they were educated about the concept of herd immunity in relation to social responsibility. I am interested in doing additional research related to this in relation to public health decisions that people make.
 
 
-## Design decisions made
+## Design Decisions 
 
 I aimed to keep things simple, clear, and concise.
 
