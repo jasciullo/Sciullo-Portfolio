@@ -19,3 +19,6 @@ Check out my [Critique by Redesign](/critique-by-design.md) here!
 
 # User Research
  [Link to user research home](/user_research/TSWD_user_research_plan.md)
+
+#Final Data Story
+Final project, presentation, and observations are included [here](/final_project_and_presentation/assignments_3-4.md).
