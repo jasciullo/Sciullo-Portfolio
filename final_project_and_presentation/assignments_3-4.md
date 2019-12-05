@@ -58,5 +58,5 @@ Created using the presentation software program Prezi. Click [here](https://prez
 
 # Final Project
 
-Created using the visual storytelling platform Shorthand. Click [here](here) view.
+Created using the visual storytelling platform Shorthand. Click [here](https://carnegiemellon.shorthandstories.com/Jennifer-Sciullo-Final-Data-Story/index.html) view.
 
