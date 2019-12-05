@@ -1,5 +1,6 @@
 # Final Data Story
 
+
 ## Audience
 
 My project targets two distinct audiences. 
@@ -47,10 +48,7 @@ The CDC data that I mined for PA vaccination rates was a time intensive endeavor
 The interactive county map designed via Tableau helps to illustrate the counties in PA that are at risk for potential outbreak. I find it interesting that a state can rank at the accepted percentage to be considered to have herd immunity (achieving a vaccination rate in the population of 95% or greater) but individual counties can be lower.
 
 
-I ended up pulling back from a lengthy description about what measles is – and timeline for the disease (including key points in history) to focus on why vaccination – and in particular vaccination against measles – is an important public health issue for everyone. I work a number of public health professionals – so when asking for feedback on my designs I went outside of this network to get a different perspective on how I was telling my story through data.
-
-
-I think that the FRED Simulation software does this in a great way. I would have liked to have shared this in a more elegant way. There are animations about herd immunity all over the internet – but I would argue that most of the people who are reviewing them are people who already know that herd immunity is public health in action!
+I ended up pulling back from a lengthy description about the signs, symptoms, and ways measles is contracted. I also omitted a timeline for the disease - including key points in vaccine history - to focus on why vaccination against measles is an important public health issue for everyone. I work with a number of public health professionals, so when asking for user feedback on my designs I went outside of this network to obtain an alternate perspective on how I was telling my story through data.
 
 
 # Class Presentation
