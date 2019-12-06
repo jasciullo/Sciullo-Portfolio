@@ -21,21 +21,21 @@ Telling Stories with Data provided an engaging and challenging opportunity to le
 
 ## Assignments
 
-Check out some of my [data visualization exercises](/dataviz2.md) here.
+Check out some of my [data visualization exercises](/dataviz2.md).
 
-Check out my [Critique by Redesign](/critique-by-design.md) here.
+Check out my [Critique by Redesign](/critique-by-design.md).
 
 
 ## Final project
 
 
-### Part I - Project proposal
-[Final project](/final-project.md) in process!
+### Part I 
+[Project proposal](/final-project.md) outlined.
 
-### Part II - Wireframes, storyboards, moodboards, and user research
- [Link to user research home](/user_research/TSWD_user_research_plan.md)
+### Part II
+ [Part II](/user_research/TSWD_user_research_plan.md) includes wireframes, storyboards, moodboards, and user research.
 
-### Part III & IV - Final data story
+### Part III & IV 
 Final project, presentation, and observations are included [here](/final_project_and_presentation/assignments_3-4.md).
   
   
