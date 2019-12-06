@@ -14,7 +14,7 @@ Telling Stories with Data provided an engaging and challenging opportunity to le
 
 # Portfolio
 
-##Assignments
+## Assignments
 
 Check out some of my [data visualization exercises](/dataviz2.md) here.
 
