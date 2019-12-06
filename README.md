@@ -1,11 +1,10 @@
 # Sciullo-Portfolio
-Telling Stories with Data
+Telling Stories with Data (94870-B2)
 
-# About me
 
 ![Profile Image](lake_erie.jpg)
 
-Greetings Wild Ones,
+# Greetings Wild Ones
 
 My name is Jennifer Sciullo. I go by the pronouns she/her/hers. I'm a part-time MPM student at the Heinz College. A native of Pittsburgh, I enjoy exploring the rivers, hills, and valleys that I call home. My background includes work in higher education, arts management, and business development. I currently work with alumni, faculty, and students as the alumni coordinator for the Graduate School of Public Health at the University of Pittsburgh.
 
